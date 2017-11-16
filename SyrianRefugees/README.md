@@ -1,1 +1,3 @@
 # SyrianRefugees
+
+Project for class
